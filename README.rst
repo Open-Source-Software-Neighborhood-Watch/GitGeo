@@ -66,7 +66,7 @@ Related Writing
 
 * `GitGeo Overview Blog <https://www.iqt.org/gitgeo-discover-the-geography-of-open-source-software/>`_
 * `GitGeo Applied to Open Source Python Data Science Blog <https://www.iqt.org/the-geography-of-open-source-data-science-mapping-anaconda-code-contributors/>`_
-
+* `Measuring Global Bio-Power: The Strengths and Limits of Using Open Source Software Metadata to Analyze Worldwide Technical Trends  <https://www.iqt.org/measuring-global-bio-power/>`_
 
 Installation
 ------------
